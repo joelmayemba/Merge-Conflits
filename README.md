@@ -1,1 +1,1 @@
-Bonjour, ceci est un test
+REMOTE
